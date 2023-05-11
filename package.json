@@ -6,8 +6,6 @@
   "author": "arifszn",
   "private": false,
   "homepage": "https://whoshayyan.github.io/HayanPortfolio/",
- 
-
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -d dist",
